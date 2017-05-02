@@ -1,0 +1,86 @@
+body{
+	background-color:#1abc9c;
+}
+.container{
+	width:1000px;
+	height:auto;
+	background-color:#ecf0f1;
+	margin:0 auto;
+	
+	
+}
+
+/*  .banner{
+	width:1000px;
+	height:400px;
+	background-image:url("banner.jpeg");
+	background-size:cover;
+	margin-bottom:0;
+	padding:0;
+	float:top;
+
+}  */
+ .nav{
+	background-color:#2980b9;
+	width:1000px;
+	height:50px;
+	margin:0;
+	margin-top:0;
+	padding:0;
+	float:top;
+	
+}
+.nav .menu li{
+	font-family:'Francois One', san-serif;
+	font-size:18px;
+	padding:10px;
+	float:left;
+	display:inline;
+	margin:auto;
+}
+.nav .profile li{
+	font-family:'Francois One', san-serif;
+	font-size:18px;
+	padding:10px;
+	float:right;
+	display:inline;
+	margin:auto;
+}
+li .proimg{
+	width:30px;
+	height:30px;
+	border:1px solid;
+	border-radius:50%;
+	
+}
+a:visited,a:link{
+	color:#ecf0f1;
+	cursor:pointer;
+	text-decoration:none !important;
+}
+.footer{
+	background-color:#2980b9;
+	width:1000px;
+	height:50px;
+	margin-top:inherit;
+	margin-bottom:0;
+	padding:0;
+	float:top;
+}
+p{ 
+	width:700px;
+	float:right;
+	
+	
+}
+.divider{
+	border-width:inherit;
+	border-bottom:1px solid black;
+}
+.post img{
+	
+	margin-left:5px;
+	width:200px;
+	height:200px;
+	
+}

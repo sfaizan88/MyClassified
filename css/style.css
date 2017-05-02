@@ -1,0 +1,79 @@
+body{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../Images/myhtml.jpeg");
+	background-size:cover;
+	
+}
+.siteicon{
+	font-size:24px;
+	font-family: 'Francois One', san-serif;
+	font-style:bold;
+	display:inline;
+	text-align:left;
+	padding:10px;
+	color:#ecf0f1;
+}
+.nav{
+	font-size:20px;
+	font-family: 'Francois One', san-serif;
+	font-style:bold;
+	text-align:right;
+	float:right;
+	
+	
+	
+}
+.nav ul {
+	text-align:right;
+	display:inline;
+}
+.nav ul li{
+	padding:10px;
+	color:#ecf0f1;
+	display:inline;
+	
+}
+.nav ul li:hover{
+	font-size:24px;
+}
+.btn{
+	font-family:'Francois One', san-serif;
+	font-size:16px;
+	width:150px;
+	height:40px;
+	border:2px solid #2ecc71;
+	border-radius:10px;
+	background-color:#2ecc71;
+	color:#ecf0f1;
+	
+}
+.buttonnew{
+	
+	margin-left:600px;
+	margin-top:100px;
+}
+
+.btn:hover{
+	width:170px;
+	height:50px;
+	font-size:18px;
+}
+
+.text1{
+	color:#ecf0f1;
+	margin-left:350px;
+	margin-top:200px;
+	width:cover;
+	height:cover;
+	font-size:3em;
+}
+a:visited,a:link{
+	color:#ecf0f1;
+	cursor:pointer;
+	text-decoration:none !important;
+}
+@media screen and (max-width:900px){
+	body{
+		background-image:none;
+		background-color:gray;
+	}
+}
