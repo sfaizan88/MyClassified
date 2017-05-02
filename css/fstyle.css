@@ -5,9 +5,9 @@ body{
 }
 .container-box{
 	width:500px;
-	height:450px;
+	height:300px;
 	background-color: #ecf0f1;
-	margin: 100px auto;
+	margin: 200px auto;
 	border:2px solid #ecf0f1;
 	border-radius:5px;
     opacity:0.8;
@@ -16,8 +16,8 @@ h2{
 	font-family:'Francois One', san-serif;
 	font-size:24px;
 	/* font-weight:bold; */
-	margin-top:10px;
-	margin-left:190px;
+	margin-top:20px;
+	margin-left:130px;
 	margin-bottom:20px;
 }
 
@@ -48,7 +48,7 @@ input{
 .btn{
 	font-family:'Francois One', san-serif;
 	font-size:18px;
-	width:150px;
+	width:250px;
 	height:40px;
 	border:2px solid #2ecc71;
 	border-radius:10px;
@@ -56,26 +56,5 @@ input{
 	color:#ecf0f1;
 }
 .btn{
-	margin-left:170px;
-	margin-top:30px;
-}
-#login{
-	font-family:'Francois One', san-serif;
-	font-size:18px;
-	/* font-weight:bold; */
-	width:200px;
-	margin:20px;
-	margin-top:30px;
-	margin-left:270px;
-	text-align:right;
-	
-}
-#login:hover{
-	font-size:20px;
-}
-#new{
-	width:20px;
-	height:20px;
-	margin:20px;
-	margin-left:50px;
+	margin-left:125px;; 
 }
