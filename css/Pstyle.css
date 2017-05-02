@@ -84,3 +84,33 @@ p{
 	height:200px;
 	
 }
+label{
+	font-family:'Francois One', san-serif;
+	font-size:18px;
+	/* font-weight:bold; */
+	margin:10px;
+	display:inline-block;
+	width:144px;
+	text-align:left;
+}
+
+input{
+	width:200px;
+	height:40px;
+	margin:20px;
+	margin-left:50px;
+}
+.btn{
+	font-family:'Francois One', san-serif;
+	font-size:18px;
+	width:150px;
+	height:40px;
+	border:2px solid #2ecc71;
+	border-radius:10px;
+	background-color:#2ecc71;
+	color:#ecf0f1;
+}
+.btn{
+	margin-left:170px;
+	margin-top:30px;
+}

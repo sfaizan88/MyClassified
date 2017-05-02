@@ -58,29 +58,20 @@ a:visited,a:link{
 	cursor:pointer;
 	text-decoration:none !important;
 }
+.post p{ 
+font-family:'Francois One', san-serif;
+	font-size:18px;
+	width:700px;
+	float:left;
+	margin-bottom:50px;
+	
+}
 .footer{
 	background-color:#2980b9;
 	width:1000px;
 	height:50px;
-	margin-top:inherit;
+	
 	margin-bottom:0;
 	padding:0;
-	float:top;
-}
-p{ 
-	width:700px;
-	float:right;
-	
-	
-}
-.divider{
-	border-width:inherit;
-	border-bottom:1px solid black;
-}
-.post img{
-	
-	margin-left:5px;
-	width:200px;
-	height:200px;
-	
+
 }
